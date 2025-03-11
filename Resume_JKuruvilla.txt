@@ -1,0 +1,164 @@
+JULIET KURUVILLA
+
+
+julietkuruvilla@gmail.com
+202.750.5660
+MD, United States
+https://www.linkedin.com/in/juliet-kuruvilla-42845626/
+https://github.com/JulietKuruvilla
+
+
+
+------------------------
+Data Science Graduate Candidate
+
+
+------------------------
+Dynamic and results-driven professional with 20+ years of expertise in project management, application implementation, training, and business process improvement, with a strong focus on financial and business applications. Currently pursuing an M.S. in Data Science and Analytics, with expertise in data analysis, visualization, and database management. Proven ability to translate business needs into actionable insights, solve complex problems, and lead teams to enhance operational efficiency.
+
+
+Work Experience
+------------------------
+Business Applications Manager
+Howard University Hospital
+11/2018 - Present
+Achievements/Tasks
+- Lead and enhance business application support across critical functions, including the revenue cycle, human resources, supply chain, payroll, and finance, to drive efficiency and success. 
+- Oversee team operations, processes, policies, and execution to enhance efficiency. 
+- Collaborate with leadership to improve daily operations, meet deadlines and expectations, and recommend enhancements for operational efficiency. 
+- Serve as portfolio and contract manager for business applications. 
+
+
+
+Sr. Systems Analyst/Programmer
+Howard University Hospital
+03/2006 - 10/2018
+Achievements/Tasks
+- Develop custom reports and analyze data using SQL and Crystal Reports for HR, Payroll, and Finance. 
+- Manage ERP security, access controls, and segregation of duties. 
+- Conduct system analysis, design, and integration to optimize processes. 
+- Lead business application implementations, and upgrades. 
+
+
+
+Sr. Data Analyst
+Electronics Research & Development Center of India
+06/2000 - 09/2003
+Achievements/Tasks
+- Perform data analysis, visualization, and project coordination to support a division within the government agency. 
+- Support the agency team and liaise with other stakeholders to improve the division's data collection and analysis efforts. 
+- Collaborated with government agency division and/or external stakeholders to review, clean, and analyze data. 
+
+
+
+
+
+
+Personal Projects
+------------------------
+Colorectal Cancer Research Project
+01/2023 - Present
+- Researching on the Impact of Family History and Lifestyle Factors on Colorectal Cancer Risk. 
+
+
+Hospital Emergency Room Throughput Dashboard
+09/2024 - 12/2024
+- Developed a Power BI Dashboard to track key metrics such as patient visits, admission rates, length of stay, and wait times, using interactive charts and slicers to highlight trends and support data-driven decision-making. 
+
+
+Women In Data Science Project - Kaggle Datathon Challenge
+01/2024 - 03/2024
+- Developed Machine Learning models to identify metastatic cancer diagnosis within 90 days of screening and assess the impact of environmental hazards on diagnosis and treatment accuracy. 
+
+
+
+
+
+GENERAL Skills
+------------------------
+-Data Visualization
+-Machine Learning
+-Data Preparation
+-Project Management
+-Leadership
+-Agile Methodologies
+-Teamwork
+-Database Management
+-Statistical Analysis
+
+
+
+Technical Skills
+------------------------
+Database
+Oracle, MySQL, SQLite3, MS Access
+
+
+Programming Language
+Python, R, Java, Scikit-learn, SQL, Javascript, PHP
+
+
+Other Software/Tools
+Power BI, Tableau, Streamlit, Rapidminer Studio, GitHub, Microsoft Project, Visio, Smartsheet, Sharepoint, Crystal Reports
+
+
+
+
+
+Certificates
+------------------------
+Scrum Master
+06/2019 - Present
+
+
+
+
+
+Education
+------------------------
+M.S. Data Science
+Howard University
+06/2023 - Present
+Washington, DC
+Courses
+
+
+M.S. Computer Science
+Cauvery Women's College
+11/1997 - 04/2000
+Trichy, India
+Courses
+
+
+
+
+
+Organizations
+------------------------
+Data Science Society (DSS)
+01/2024 - Present
+
+
+Institute of Electrical and Electronics Engineers (IEEE)
+01/2024 - Present
+
+
+Project Management Institute (PMI)
+05/2020 - Present
+
+
+Scrum Alliance
+07/2019 - Present
+
+
+
+
+
+Interests
+------------------------
+-Art
+-Music
+-Reading
+
+
+
